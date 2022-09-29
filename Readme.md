@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм (простой)»
 
 * Студент: [Maksim Skonzhenko](https://up.htmlacademy.ru/javascript/27/user/2165393).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Устименко](https://htmlacademy.ru/profile/id81071).
 
 ---
 
